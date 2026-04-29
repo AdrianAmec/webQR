@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    const apkUrl = "https://raw.githubusercontent.com/AdrianAmec/OceanPark_APP/dev/apk/android-debug.apk";
+    const apkUrl = "https://raw.githubusercontent.com/AdrianAmec/webQR/main/apk/android-debug.apk";
 
     return MaterialApp(
       debugShowCheckedModeBanner: false,
